@@ -1,0 +1,5 @@
+main: com.xpaintall.PracticePlugin.Main
+author: xpaintall
+version: 1.0
+api-version: 1.8.8
+name: PracticePlugin
